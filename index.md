@@ -5,7 +5,7 @@ title: AI for Urban Traffic Control and Mobility
 
 # AI for Urban Traffic Control and Mobility
 
-This is the website for the [FLAIRS 2024](https://www.flairs-37.info/) Special Track on AI for Urban Traffic Control and Mobility.
+This is the website for the [FLAIRS 2025](https://www.flairs-38.info/) Special Track on AI for Urban Traffic Control and Mobility.
 
 
 ## Call for Papers
@@ -31,19 +31,21 @@ The aim of this special track is to foster the investigation and development of 
 *	Security by design in urban traffic control and mobility
 
 ## Submission Instructions
-There are three kinds of submissions: full paper—a paper of high quality, which will be published in the proceedings (up to 6 pages plus references) and will be presented by the author in a corresponding track (20 minute oral presentation); short paper—a paper that shows some novelty and general interest, but is more preliminary or in the early stages of development, which also get published in the proceedings (up to 4 pages plus references) and the author presents the work in a poster session; and poster paper, which will be published as a poster paper (up to 2 pages plus references) and the author presents the work in a poster session. Rejected full papers may still be accepted as short papers or posters, if reviewers found interest in the idea, but the paper quality was not sufficient to be published in full length. There will also be a separate poster only submission for authors who want to submit and present it in a poster session.
+There are three kinds of submissions: full paper—a paper of high quality, which will be published in the proceedings (up to 6 pages plus references) and will be presented by the author in a corresponding track (20 minute oral presentation); short paper—a paper that shows some novelty and general interest, but is more preliminary or in the early stages of development, which also get published in the proceedings (up to 4 pages plus references) and the author presents the work in a poster session; and poster paper, which will be published as a poster paper (up to 2 pages plus references) and the author presents the work in a poster session. 
+
+Rejected full papers might be accepted as short papers or posters, if reviewers found interest in the idea but the paper quality was not sufficient to be published in full length. 
 
 Appendices after the references are permitted but might not be reviewed, and appendices will not be permitted in the final version of the paper if it is accepted. 
 
-Double-blind reviewing will be provided, so submitted papers must use fake/anonymized author names and affiliations.
+Double-blind reviewing is used, so submitted papers must use fake/anonymized author names and affiliations. Papers must use the latest template and must be submitted as PDF.
 
-Papers must be in format provided in FLAIRS-36 website, and submitted as PDF through the [EasyChair conference system](https://easychair.org/conferences/?conf=flairs37), which is also available in the main conference web site. The proceedings of FLAIRS-37 will be published by [Florida OJ](https://journals.flvc.org/FLAIRS/index). In order for a paper to be published in the proceedings, the paper must be accompanied by at least one AUTHOR REGISTRATION.  It is also expected that for a full (i.e., maximum 6-page) paper, at least one of the authors will attend the conference to present their work. In order for a poster to be presented at the conference, it must also be accompanied by an AUTHOR REGISTRATION.
+Papers must be in format provided in FLAIRS-38 website, and submitted as PDF through the [EasyChair conference system](https://easychair.org/conferences/?conf=flairs38), which is also available in the main conference web site. The proceedings of FLAIRS-38 will be published by [Florida OJ](https://journals.flvc.org/FLAIRS/index). In order for a paper to be published in the proceedings, the paper must be accompanied by at least one AUTHOR REGISTRATION.  It is also expected that for a full (i.e., maximum 6-page) paper, at least one of the authors will attend the conference to present their work. In order for a poster to be presented at the conference, it must also be accompanied by an AUTHOR REGISTRATION.
 
 ## Deadlines
-* Paper abstract submission deadline: January 22, 2024 
-* Paper submission deadline: January 29, 2024 
-* Notification: March 11, 2024
-* Camera-ready paper submission: April 8, 2024
+* Paper abstract submission deadline: January 20, 2025 
+* Paper submission deadline: January 27, 2025 
+* Notification: March 10, 2025
+* Camera-ready paper submission: April 9, 2025
 
 
 ## Organizers
