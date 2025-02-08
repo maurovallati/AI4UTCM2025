@@ -53,4 +53,13 @@ Papers must be in format provided in FLAIRS-38 website, and submitted as PDF thr
  - [Mauro Vallati](https://www.mvallati.net/)
 
 ## Program Committee
-TBC
+- Ron Alford
+- Saumya Bhatnagar
+- Sandra Castellanos
+- Carmine Dodaro
+- Alba Gragera
+- Rongge Guo
+- Marco Maratea
+- Andrea Orlandini
+- Cecilia Pasquale
+- Mi Yang
